@@ -1,0 +1,22 @@
+HEEDS Version: 2021.2.0
+
+
+Microsoft Windows [Version 10.0.18363.1977]
+
+Name                      
+NVIDIA Quadro M2200       
+Intel(R) HD Graphics 630  
+
+
+DeviceID  MaxClockSpeed  Name                                       NumberOfCores  
+CPU0      3101           Intel(R) Core(TM) i7-7920HQ CPU @ 3.10GHz  4              
+
+
+TotalPhysicalMemory  
+34195955712          
+
+
+FreePhysicalMemory  
+22934960            
+
+

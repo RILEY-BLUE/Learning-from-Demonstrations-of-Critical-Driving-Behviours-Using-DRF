@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TrafficSimulatorViewModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0.0.0" RunDuringSimulation="false" ReportUnsupportedRoads="true" GenerateOnBuild="false" ApplicationDirectory="" ExperimentFileName="">
+  <EgoVehicle UniqueID="0" Category="CAR" EnableTurnIndicatorSynchronization="false" />
+  <PreScanVehicles />
+  <ExternallyControlledVehicles />
+  <ObjectPoolGenerateInfo NumberOfCars="0" NumberOfTrucks="0" NumberOfMotorbikes="0" NumberOfBicycles="0" NumberOfPedestrians="0" />
+  <Origin X="0" Y="0" />
+  <TrafficLightMapping />
+</TrafficSimulatorViewModel>

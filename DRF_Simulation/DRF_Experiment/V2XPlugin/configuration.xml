@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<V2XConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4">
+  <Transceivers />
+  <TransmissionRange rangeMeters="500" isRangeInfinite="false" />
+  <ChannelModel communicationModel="cutoff" />
+  <RootMessages>
+    <RootMessage messageType="CSAEBSM" displayName="CSAE BSM" version="1" enabled="false" uniqueID="1" />
+    <RootMessage messageType="ETSICAM" displayName="ETSI CAM" version="1" enabled="false" uniqueID="2" />
+    <RootMessage messageType="ETSIDENM" displayName="ETSI DENM" version="1" enabled="false" uniqueID="3" />
+    <RootMessage messageType="Generic" version="1" enabled="false" uniqueID="4" />
+    <RootMessage messageType="SAEBSM" displayName="SAE BSM" version="1" enabled="false" uniqueID="5" />
+  </RootMessages>
+</V2XConfiguration>

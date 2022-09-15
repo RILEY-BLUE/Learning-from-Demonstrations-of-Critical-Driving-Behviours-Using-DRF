@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/YURUIDU/DRF_Simulation/**",
+                "C:/Program Files/Simcenter Prescan/Prescan_2021.2/include/**",
+                "C:/Program Files/Simcenter Prescan/Prescan_2021.2/modules/**",
+                "C:/Program Files/Simcenter Prescan/Prescan_2021.2/modules/GraphBasedRoads/include_interface/**",
+                "C:/Program Files/Simcenter Prescan/Prescan_2021.2/modules/Camera/**",
+                "${workspaceFolder}/src/DRFModel/include",
+                "C:/Program Files/Simcenter Prescan/Prescan_2021.2/include/platform"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "c:/apps/MVS16/VC/Tools/MSVC/14.20.27508/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}

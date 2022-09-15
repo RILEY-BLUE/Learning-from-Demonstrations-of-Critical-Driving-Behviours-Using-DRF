@@ -1,0 +1,19 @@
+federates:
+[
+  {
+    federateId: 0
+    moduleName: CameraFederate
+    instanceName: CameraFederate_0
+    hostName: pl2belvn0120nb
+    gpuId: -1
+    cameraType: defaultCamera
+    sensors: 
+    [
+      {
+        index: 0
+        name: CameraSensor_1
+        cameraType: defaultCamera
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+
+F
+&
+$483e3de0-579e-4e32-93fe-539a280491c2
+World\Images\Image00.psimg
+F
+&
+$2b615989-43cb-4e18-8c0d-c5ff54edb354
+World\Images\Image02.psimg
+F
+&
+$245e96de-6cba-4068-af66-4801764187b1
+World\Images\Image03.psimg
+F
+&
+$0c94d7a2-554e-4133-bb06-591a06fb0ccf
+World\Images\Image10.psimg
+F
+&
+$4bab7ee1-1828-44e8-a20b-e7ae3001e59e
+World\Images\Image13.psimgV
+&
+$663f3798-aaa6-4232-b9a4-289873fdd7d8,
+*World\Textures\Texture0Diffuse_Color.pstexO
+&
+$90c43ddd-3f4f-47ce-9841-dc77f753a963%
+#World\Textures\Texture0Normal.pstexL
+&
+$23f739e0-40f4-4ae2-b176-cd82432a76d8"
+ World\Textures\Texture0PB1.pstexL
+&
+$7baa648b-e4cb-4c3f-b333-dd0a994508b8"
+ World\Textures\Texture1PB1.pstexV
+&
+$9171fd46-c2b8-4043-aa8c-a9944ab10a9d,
+*World\Textures\Texture1Diffuse_Color.pstexK
+&
+$2d28c818-8fa7-4784-8ae6-1ed82793a6a2!
+World\Materials\Material0.psmatK
+&
+$064caccb-303d-4d9f-9879-090da7b4e326!
+World\Materials\Material1.psmat"N
+&
+$df3d7722-4d41-4d31-b36a-41afaea6d743$
+"World\Principled\Principled0.pspcp"N
+&
+$cc193b65-1302-4d03-aa59-187854457e49$
+"World\Principled\Principled1.pspcp’K
+&
+$0e190540-2cbf-4a62-aaf7-9b33a2f467b9!
+World\MeshData\MeshData8.psmesh’L
+&
+$962a2571-b22c-47a7-8eb3-40c53ba3263d"
+ World\MeshData\MeshData15.psmesh’K
+&
+$b16f1807-a577-4715-ad4c-957be2c0568e!
+World\MeshData\MeshData3.psmesh’L
+&
+$3fb95468-65c0-43d7-9d28-886408036989"
+ World\MeshData\MeshData16.psmesh’K
+&
+$2078f8b0-4c5a-43a8-8498-1f39658c6cbd!
+World\MeshData\MeshData0.psmesh’K
+&
+$1a7e8264-2229-470a-bcf9-28ead4ddbaff!
+World\MeshData\MeshData1.psmesh’K
+&
+$531caa12-2289-4987-94ff-b5bc74a48951!
+World\MeshData\MeshData7.psmesh’L
+&
+$ca8b1112-b3e9-49b9-a362-f77dc33b9c72"
+ World\MeshData\MeshData12.psmesh’K
+&
+$84173b79-51cf-47d7-b7bd-ea96ac58302f!
+World\MeshData\MeshData2.psmesh’K
+&
+$62ce93af-51c0-40a3-a1d1-ae96728fcbb2!
+World\MeshData\MeshData5.psmesh’K
+&
+$36cb050e-3502-4a01-bb77-52af392590fd!
+World\MeshData\MeshData4.psmesh’K
+&
+$096fe193-7428-4022-a331-e7203df2200e!
+World\MeshData\MeshData6.psmesh’K
+&
+$59141722-2751-4897-b57e-052d2c1476ba!
+World\MeshData\MeshData9.psmesh’L
+&
+$ffa1643c-bde7-4301-952b-ff1cf1edf81c"
+ World\MeshData\MeshData14.psmesh’L
+&
+$146baa31-c8b8-4d13-a172-6306bd86cbd5"
+ World\MeshData\MeshData10.psmesh’L
+&
+$531f9dde-a8ed-4464-868a-738881be2cef"
+ World\MeshData\MeshData11.psmesh’L
+&
+$c4b9ff3a-bef2-4d84-9f59-fc65d2bd270c"
+ World\MeshData\MeshData13.psmeshÂ?
+&
+$cb343364-6104-4478-85c7-e71fe18e5620
+World\world.psscene
