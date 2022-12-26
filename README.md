@@ -1,8 +1,7 @@
-# Offline Multi-agent RL using Driver Perceived Risk Models
+# Learning from Demonstrations of Critical Driving Behaviours Using Driver's Risk Field
 
-Offline RL using a multi-agent traffic simulator with driver risk field (DRF) agents.
+Imitation Learning using a multi-agent traffic simulator with driver risk field (DRF) agents.
 
-Note: This README is still under further maintainance.
 
 ## Description
 
